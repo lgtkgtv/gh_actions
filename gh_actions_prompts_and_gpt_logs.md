@@ -1,4 +1,4 @@
-#@@ prompt 
+##@@ initial prompt 
 
 Review this prompt and help me reorganize this prompt as a series of prompts with smaller easier verifyable series of tasks to acheive the overall plan objective
 
@@ -327,4 +327,24 @@ echo "✅ Project setup completed successfully."
    ```
 
 Your project is now ready with the intended structure and necessary tools. Would you like to proceed with the calculator implementation or start writing GitHub Actions workflows next?
+
+##@@ yes
+### **Phase 2: Implement Core Project Code**
+
+We'll now:
+
+✅ Implement a simple **calculator** library with `API_good()` and `API_bad()` methods.  
+✅ Add **unit tests** using `pytest` and `Hypothesis`.  
+✅ Create a **fuzz testing** setup using `Atheris`.  
+
+I'll start by writing the calculator code, unit tests, and fuzz tests. Stay tuned.
+
+I've added the following components to your project setup:
+
+✅ `calculator.py` — Implements `API_good()` and `API_bad()` methods.  
+✅ `test_calculator.py` — Includes basic unit tests for both APIs.  
+
+Next, I'll add fuzz testing with `Atheris` and expand the unit tests with `Hypothesis`. Would you like me to proceed?
+
+##@@ Yes
 

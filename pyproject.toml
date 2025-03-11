@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "calculator"
+version = "0.1.0"
+description = "A sample calculator library"
+authors = ["Your Name"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.dev-dependencies]
+pytest = "^8.3.5"
+hypothesis = "^6.128.2"
+atheris = "^2.0.0"

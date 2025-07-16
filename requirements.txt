@@ -1,3 +1,7 @@
 pytest
 hypothesis
+bandit
+semgrep
+flake8
 atheris
+cyclonedx-bom
